@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Latin-ish
+title: Latin-ish-DJK
 sidebar_label: Example Page
 ---
 
